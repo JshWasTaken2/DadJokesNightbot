@@ -1,0 +1,13 @@
+{
+    "name": "jokes-api",
+    "version": "1.0.0",
+    "description": "A simple API that serves random jokes for Nightbot integration.",
+    "main": "api/joke.js",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "author": "ItsJsh_",
+    "license": "MIT",
+    "dependencies": {}
+  }
+  
